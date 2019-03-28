@@ -1,0 +1,45 @@
+[
+  {
+    "budget": 237000000,
+    "genres": 
+      {
+        "id": 28,
+        "name": "Action"
+      }
+    ,
+    "homepage": "http://www.avatarmovie.com/",
+    "id": 19995,
+    "keywords": 
+      {
+        "id": 1463,
+        "name": "culture clash"
+      },
+    "original_language": "en",
+    "original_title": "Avatar",
+    "overview": "In the 22nd century, a paraplegic Marine is dispatched to the moon Pandora on a unique mission, but becomes torn between following orders and protecting an alien civilization.",
+    "popularity": 150.437577,
+    "production_companies": 
+      {
+        "name": "Ingenious Film Partners",
+        "id": 289
+      },
+    "production_countries": 
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      },
+    "release_date": "2009-12-10",
+    "revenue": 2787965087,
+    "runtime": 162,
+    "spoken_languages":
+      {
+        "iso_639_1": "en",
+        "name": "English"
+      },
+    "status": "Released",
+    "tagline": "Enter the World of Pandora.",
+    "title": "Avatar",
+    "vote_average": 7.2,
+    "vote_count": 11800
+  }
+ ]
